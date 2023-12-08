@@ -1,6 +1,5 @@
 - 👋 雷猴，这里是@jianmofeng
-- 👀 欢迎各位
-- 🌱 2021快乐快乐！
+- 🌱 学而时习之
 
 <!---
 jianmofeng/jianmofeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
